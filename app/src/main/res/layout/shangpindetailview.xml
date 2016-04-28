@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#FFFDF7E8">
+	<!-- 标题行 -->
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="47dp"
+		android:background="#FFC4221F">
+		<TextView android:id="@+id/goodsName" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:textColor="#FFFFFFFF"
+			android:textSize="20px" android:layout_gravity="center"
+			android:layout_weight="2" android:gravity="center" />
+	</LinearLayout>
+	<ScrollView android:layout_width="310px"
+		android:layout_height="wrap_content">
+		<LinearLayout android:orientation="vertical"
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<!-- 商品图片 -->
+			<LinearLayout android:orientation="horizontal"
+				android:layout_width="wrap_content" android:layout_height="wrap_content">
+				<ImageView android:id="@+id/goodsPic"
+					android:layout_marginTop="5px" android:layout_marginLeft="45px"
+					android:layout_width="232px" android:layout_height="160px" />
+			</LinearLayout>
+			<!-- 路书起点终点信息 -->
+			<LinearLayout android:orientation="vertical"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginLeft="45px" android:layout_marginTop="8px">
+
+				<TextView android:id="@+id/goodsNum" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:textColor="#ff000000" />
+				<TextView android:id="@+id/goodsPrice"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textColor="#ff000000" />
+				<TextView android:id="@+id/goodsDiscount"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textColor="#ff000000" />
+				<TextView android:id="@+id/goodsDcount"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textColor="#ff000000" />
+			</LinearLayout>
+			<!-- 提示 -->
+			<TextView android:id="@+id/descTip" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="描述"
+				android:textStyle="bold" android:layout_marginTop="8px"
+				android:layout_marginLeft="45px" android:textColor="#ff000000" />
+			<TextView android:layout_width="231px"
+				android:layout_marginTop="5px" android:layout_height="wrap_content"
+				android:layout_marginLeft="45px" android:id="@+id/goodsDes"
+				android:textColor="#ff000000" android:lineSpacingMultiplier="1.1" />
+
+			<Button android:id="@+id/addToCard" android:layout_width="140px"
+				android:layout_height="wrap_content" android:textColor="#ff000000"
+				android:text="放 入 购 物 车" android:layout_gravity="center"
+				android:layout_marginBottom="10px" />
+		</LinearLayout>
+
+	</ScrollView>
+</LinearLayout>

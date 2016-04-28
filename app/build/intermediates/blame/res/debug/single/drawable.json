@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\computer.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\computer.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\mobile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\beijing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popular.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\popular.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trippoilistviewbg.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\trippoilistviewbg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bill.png",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\drawable\\bill.png"
+    }
+]

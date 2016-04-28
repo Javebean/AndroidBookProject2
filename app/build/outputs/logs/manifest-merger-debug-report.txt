@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:2:1-46:12
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:3:2-35
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:3:36-59
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:5:2-43:16
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:5:45-77
+	android:icon
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:5:15-44
+activity#com.AndroidBookProject2.Welcome
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:6:3-11:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:6:37-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:6:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:7:4-10:20
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:8:5-57
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:8:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:9:15-62
+activity#com.AndroidBookProject2.ViewLogin
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:12:3-14:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:12:39-71
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:12:13-38
+activity#com.AndroidBookProject2.ViewTuiJian
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:15:3-16:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:15:41-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:15:13-40
+activity#com.AndroidBookProject2.ViewJiaDian
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:18:3-19:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:18:41-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:18:13-40
+activity#com.AndroidBookProject2.ViewShouJi
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:21:3-22:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:21:40-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:21:13-39
+activity#com.AndroidBookProject2.ViewDianNao
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:24:3-25:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:24:41-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:24:13-40
+activity#com.AndroidBookProject2.ShangPinDetailView
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:27:3-29:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:27:48-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:27:13-47
+activity#com.AndroidBookProject2.CartListView
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:30:3-32:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:30:42-74
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:30:13-41
+activity#com.AndroidBookProject2.BillDetailView
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:33:3-35:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:33:44-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.AndroidBookProject2.BillListView
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:36:3-38:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:36:42-74
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.AndroidBookProject2.ViewMain
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:39:3-41:14
+	android:label
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:39:38-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:39:13-37
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:45:2-64
+	android:name
+		ADDED from D:\AndroidStudioProjects\AndroidBookProject2\app\src\main\AndroidManifest.xml:45:19-61

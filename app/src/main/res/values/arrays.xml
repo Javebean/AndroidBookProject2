@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- 自定义数组，通过name调用该数组，数组中有几个元素，就用几个item标签-->
+    <!-- 送货时间 -->
+    <string-array name="send_TimeArr">
+        <item>只工作日送货（双休日、节假日不用送）</item>
+        <item>工作日、双休日、节假日均可送货</item>
+        <item>只双休日、节假日送货（工作日不用送）</item>
+    </string-array>
+    <!-- 付款方式 -->
+   <string-array name="pay_MoneyWayArr">
+        <item>现金</item>
+        <item>POS刷卡</item>
+         <item>支票</item>
+    </string-array>
+</resources>

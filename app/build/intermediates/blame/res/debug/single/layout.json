@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shangpindetailview.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\shangpindetailview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewlogin.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewlogin.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewjiadian.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewjiadian.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewbilldetail.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewbilldetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewbilllist.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewbilllist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewdiannao.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewdiannao.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\billlistrow.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\billlistrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cartlistrow.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\cartlistrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewcartlist.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewcartlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewtuijian.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewtuijian.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuijianrow.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\tuijianrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewshouji.xml",
+        "source": "D:\\AndroidStudioProjects\\AndroidBookProject2\\app\\src\\main\\res\\layout\\viewshouji.xml"
+    }
+]

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="#FFFFF9EB">
+	<!-- 标题行 -->
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="47dp"
+		android:background="#FFC4221F">
+		<TextView android:id="@+id/title" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:text="填写订单信息"
+			android:textColor="#FFFFFFFF" android:textSize="20px"
+			android:layout_gravity="center" android:gravity="center"
+			android:layout_weight="2" />
+	</LinearLayout>
+	<ScrollView android:layout_height="wrap_content"
+		android:layout_width="fill_parent">
+		<LinearLayout android:orientation="vertical"
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<!-- 收货人信息 -->
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:text="收货人信息"
+				android:textColor="#FF000000" android:layout_marginLeft="5px" />
+			<LinearLayout android:orientation="vertical"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:background="#FFDACDDD" android:layout_margin="5px"
+				android:padding="5px">
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="收 货 人："
+						android:textColor="#FF000000" />
+					<EditText android:id="@+id/getPerson"
+						android:layout_width="fill_parent" android:layout_height="wrap_content" />
+				</LinearLayout>
+
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="地    址："
+						android:textColor="#FF000000" />
+					<EditText android:id="@+id/personAddr"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:lines="2" />
+				</LinearLayout>
+			</LinearLayout>
+			<!-- 支付及配送方式 -->
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:text="支付及配送方式"
+				android:textColor="#FF000000" android:layout_marginLeft="5px" />
+			<LinearLayout android:orientation="vertical"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:background="#FFDACDDD" android:layout_margin="5px"
+				android:padding="5px">
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="送货时间："
+						android:textColor="#FF000000" android:layout_gravity="center" />
+					<Spinner android:id="@+id/sendTime" android:layout_width="fill_parent"
+						android:layout_height="wrap_content" android:prompt="@string/send_way" />
+				</LinearLayout>
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<TextView android:layout_width="wrap_content"
+						android:layout_height="wrap_content" android:text="付款方式："
+						android:textColor="#FF000000" android:layout_gravity="center" />
+					<Spinner android:id="@+id/payMoneyWay"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:prompt="@string/payMoney_way" />
+				</LinearLayout>
+			</LinearLayout>
+			<!-- 商品金额 -->
+			<LinearLayout android:orientation="horizontal"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:layout_marginLeft="5px">
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="应付金额："
+					android:textColor="#FF000000" />
+				<TextView android:id="@+id/payMoney" android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="229元"
+					android:textColor="#FFFF0000" />
+			</LinearLayout>
+			<Button android:id="@+id/submitBill" android:layout_width="140px"
+				android:layout_height="wrap_content" android:text="提 交 订 单"
+				android:layout_gravity="center" android:layout_marginBottom="10px" />
+		</LinearLayout>
+	</ScrollView>
+
+</LinearLayout>

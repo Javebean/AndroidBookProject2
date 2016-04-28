@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pay_MoneyWayArr">
+        <item>现金</item>
+        <item>POS刷卡</item>
+         <item>支票</item>
+    </string-array>
+    <string-array name="send_TimeArr">
+        <item>只工作日送货（双休日、节假日不用送）</item>
+        <item>工作日、双休日、节假日均可送货</item>
+        <item>只双休日、节假日送货（工作日不用送）</item>
+    </string-array>
+    <string name="app_name">美妆网上购物商城</string>
+    <string name="payMoney_way">付款方式</string>
+    <string name="send_way">送货时间</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">美妆网上购物商城</string>
+    <string name="send_way">送货时间</string>
+    <string name="payMoney_way">付款方式</string>
+</resources>
